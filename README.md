@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FAD02C&center=true&vCenter=true&width=550&lines=Estudante+Full+Stack;Apaixonado+Por+Matematica;Apaixonado+Por+Python;Futuro+Desenvolvedor+Backend" alt="Typing SVG" />
 </div>
 
-<div style="height: 3px; background: linear-gradient(90deg, #00F72F 0%, #2E8B57 50%, #00F72F 100%); margin: 24px 0; border-radius: 5px;"></div>
+<div style="height: 30px; background: linear-gradient(90deg, #00F72F 0%, #2E8B57 50%, #00F72F 100%); margin: 24px 0; border-radius: 5px;"></div>
 
 
 ## Sobre Mim
