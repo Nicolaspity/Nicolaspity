@@ -1,12 +1,16 @@
-# Olá, eu sou o Nicolas Esteves! 👋
+# <span style="color: #E9EAEC;">Olá, eu sou o Nicolas Esteves!</span>
+[![Nicolas Esteves](https://img.shields.io/badge/-Olá,%20eu%20sou%20o%20Nicolas%20Esteves!-FAD02C?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Nicolaspity)
+
+<div style="height: 3px; background: linear-gradient(90deg, #00F72F 0%, #2E8B57 50%, #00F72F 100%); margin: 24px 0; border-radius: 5px;"></div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F72F&center=true&vCenter=true&width=435&lines=Estudante+Full+Stack;Entusiasta+da+Matemática;Amante+de+Python;Futuro+Engenheiro+da+Computação" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FAD02C&center=true&vCenter=true&width=550&lines=Estudante+Full+Stack;Apaixonado+Por+Matematica;Apaixonado+Por+Python;Futuro+Desenvolvedor+Backend" alt="Typing SVG" />
 </div>
 
----
+<div style="height: 3px; background: linear-gradient(90deg, #00F72F 0%, #2E8B57 50%, #00F72F 100%); margin: 24px 0; border-radius: 5px;"></div>
 
-## 🧑💻 Sobre Mim
+
+## Sobre Mim
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
 
@@ -19,7 +23,7 @@
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 ### Linguagens de Programação
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -34,7 +38,7 @@
 
 ---
 
-## 🎓 Formação
+## Formação
 
 **FIRJAN SENAI SESI - Petrópolis/RJ**  
 `2023 - 2025`  
@@ -51,7 +55,7 @@ Curso Técnico em Desenvolvimento de Sistemas
 
 ---
 
-## 📱 Contato
+## Contato
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolas14esteves@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nicolasestevespity/)
@@ -60,17 +64,33 @@ Curso Técnico em Desenvolvimento de Sistemas
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolasesteves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasesteves&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicolaspity&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolaspity&layout=compact&langs_count=7&theme=dark"/>
+    <div align="center">
+    <a href="https://github.com/Nicolaspity?tab=repositories">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nicolaspity&theme=github_dark" width="90%"/>
+    </a>
+   </div>
+   <h3><b>Contagem de visitas profissionais</b></h3>
+  <p align="center">
+    <img
+      src="https://profile-counter.glitch.me/Nicolaspity/count.svg"
+      alt="Número de visitantes no perfil"
+      />
+  </p>
 </div>
+
+
+ 
+---
 
 ![Animação de Cobra](https://raw.githubusercontent.com/Nicolaspity/Nicolaspity/output/github-contribution-grid-snake.svg)
 
 ---
 
 <div align="center">
-  <p>🌟 "O computador nasceu para resolver problemas que antes não existiam." - Bill Gates 🌟</p>
+  <p>"O computador nasceu para resolver problemas que antes não existiam." - Bill Gates</p>
 </div>
