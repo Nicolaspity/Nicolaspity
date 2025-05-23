@@ -46,9 +46,9 @@ Curso Técnico em Desenvolvimento de Sistemas
 • Análise e Projeto de Sistemas  
 
 **Metas Acadêmicas Futuras**  
-1. Graduação em Ciência da Computação 🎓  
-2. Especialização em Engenharia de Software 📱  
-3. Preparação para Vestibular do ITA 🚀  
+1. Graduação em Ciência da Computação 
+2. Especialização em Engenharia de Software 
+3. Preparação para Vestibular do ITA  
 
 ---
 
@@ -62,6 +62,7 @@ Curso Técnico em Desenvolvimento de Sistemas
 ---
 
 ## Estatísticas do GitHub
+
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicolaspity&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -89,5 +90,9 @@ Curso Técnico em Desenvolvimento de Sistemas
 ---
 
 <div align="center">
-  <p>"O computador nasceu para resolver problemas que antes não existiam." - Bill Gates</p>
+  <p style="color: #E9EAEC; font-size: 18px; font-weight: bold; text-shadow: 1px 1px 2px rgba(0,0,0,0.3);">
+    "O computador nasceu para resolver problemas que antes não existiam." <br>- Bill Gates -
+  </p>
 </div>
+
+---
