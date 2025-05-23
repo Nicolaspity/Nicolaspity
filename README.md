@@ -1,14 +1,12 @@
-# <span style="color: #E9EAEC;">Olá, eu sou o Nicolas Esteves!</span>
-[![Nicolas Esteves](https://img.shields.io/badge/-Olá,%20eu%20sou%20o%20Nicolas%20Esteves!-FAD02C?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Nicolaspity)
+---
 
-<div style="height: 3px; background: linear-gradient(90deg, #00F72F 0%, #2E8B57 50%, #00F72F 100%); margin: 24px 0; border-radius: 5px;"></div>
+[![Nicolas Esteves](https://img.shields.io/badge/-Olá,%20eu%20sou%20o%20Nicolas%20Esteves!-FAD02C?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Nicolaspity)
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FAD02C&center=true&vCenter=true&width=550&lines=Estudante+Full+Stack;Apaixonado+Por+Matematica;Apaixonado+Por+Python;Futuro+Desenvolvedor+Backend" alt="Typing SVG" />
 </div>
 
-<div style="height: 30px; background: linear-gradient(90deg, #00F72F 0%, #2E8B57 50%, #00F72F 100%); margin: 24px 0; border-radius: 5px;"></div>
-
+---
 
 ## Sobre Mim
 
@@ -27,14 +25,13 @@
 
 ### Linguagens de Programação
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Ferramentas & Tecnologias
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 
 ---
 
