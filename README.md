@@ -73,12 +73,13 @@ Curso Técnico em Desenvolvimento de Sistemas
     </a>
    </div>
    <h3><b>Contagem de visitas profissionais</b></h3>
-  <p align="center">
-    <img
-      src="https://profile-counter.glitch.me/Nicolaspity/count.svg"
-      alt="Número de visitantes no perfil"
-      />
-  </p>
+<p align="center">
+  <img 
+    src="https://profile-counter.glitch.me/Nicolaspity/count.svg" 
+    alt="Contador de visitas"
+    style="filter: invert(16%) sepia(99%) saturate(6053%) hue-rotate(358deg) brightness(101%) contrast(106%)"
+  />
+</p>
 </div>
 
 
@@ -96,3 +97,9 @@ Curso Técnico em Desenvolvimento de Sistemas
 </div>
 
 ---
+
+<div align="center" style="margin-top: 40px;">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/Voltar%20ao%20Topo-%F0%9F%94%8D-333652?style=for-the-badge&logo=arrow-up&logoColor=FAD02C&labelColor=333652&color=FAD02C"/>
+  </a>
+</div>
