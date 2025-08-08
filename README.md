@@ -65,19 +65,6 @@ Curso Técnico em Desenvolvimento de Sistemas
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicolaspity&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolaspity&layout=compact&langs_count=7&theme=dark"/>
-    <div align="center">
-    <a href="https://github.com/Nicolaspity?tab=repositories">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nicolaspity&theme=github_dark" width="90%"/>
-    </a>
-   </div>
-   <h3><b>Contagem de visitas profissionais</b></h3>
-<p align="center">
-  <img 
-    src="https://profile-counter.glitch.me/Nicolaspity/count.svg" 
-    alt="Contador de visitas"
-    style="filter: invert(16%) sepia(99%) saturate(6053%) hue-rotate(358deg) brightness(101%) contrast(106%)"
-  />
-</p>
 </div>
 
 
