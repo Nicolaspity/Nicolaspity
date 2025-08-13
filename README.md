@@ -80,11 +80,3 @@ Curso Técnico em Desenvolvimento de Sistemas
     "O computador nasceu para resolver problemas que antes não existiam." <br>- Bill Gates -
   </p>
 </div>
-
----
-
-<div align="center" style="margin-top: 40px;">
-  <a href="#nicolas-esteves">
-    <img src="https://img.shields.io/badge/Voltar%20ao%20Topo-%F0%9F%94%8D-333652?style=for-the-badge&logo=arrow-up&logoColor=FAD02C&labelColor=333652&color=FAD02C"/>
-  </a>
-</div>
