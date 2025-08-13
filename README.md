@@ -84,7 +84,7 @@ Curso Técnico em Desenvolvimento de Sistemas
 ---
 
 <div align="center" style="margin-top: 40px;">
-  <a href="[https://github.com/Nicolaspity/Nicolaspity]">
+  <a href="(https://github.com/Nicolaspity/Nicolaspity]](https://github.com/Nicolaspity/Nicolaspity/blob/main/README.md)">
     <img src="https://img.shields.io/badge/Voltar%20ao%20Topo-%F0%9F%94%8D-333652?style=for-the-badge&logo=arrow-up&logoColor=FAD02C&labelColor=333652&color=FAD02C"/>
   </a>
 </div>
