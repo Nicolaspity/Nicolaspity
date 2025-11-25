@@ -4,7 +4,7 @@
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FAD02C&center=true&vCenter=true&width=550&lines=Estudante+Full+Stack;Apaixonado+Por+Matematica;Apaixonado+Por+Java;Apaixonado+Por+Musica;Apaixonado+Por+Robotica;Apaixonado+Por+Python;Futuro+Estudante+Backend;Integrante+E+Programador+Da+Equipe+AsasFTC;Faco+Parte+Do+Movimento+Escoteiro;Quero+Conhecer+E+Viajar+Pelo+Mundo"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FAD02C&center=true&vCenter=true&width=550&lines=Estudante+Full+Stack;Apaixonado+Por+Matematica;Apaixonado+Por+Java;Apaixonado+Por+Musica;Apaixonado+Por+Robotica;Apaixonado+Por+Python;Futuro+Estudante+Backend;Programador+Equipe+AsasFTC;Sou+Escoteiro+Com+Orgulho;Quero+Conhecer+O+Mundo"
   />
 </div>
 
