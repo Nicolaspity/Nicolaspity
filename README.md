@@ -12,7 +12,7 @@
 
 ## Sobre Mim
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="225">
 
 - 📚 Cursando Ensino Médio Técnico em Desenvolvimento de Sistemas na **FIRJAN SENAI SESI Petrópolis**
 - 🧮 Apaixonado por Matemática e Solução de Problemas
