@@ -76,7 +76,15 @@ Curso Técnico em Desenvolvimento de Sistemas
 ---
 
 <div align="center">
-  <p style="color: #E9EAEC; font-size: 18px; font-weight: bold; text-shadow: 1px 1px 2px rgba(0,0,0,0.3);">
-    "O computador nasceu para resolver problemas que antes não existiam." <br>- Bill Gates -
+  <p>
+    Como dizia meu ilustre professor para aproveitar ao máximo o tempo de vida, pronunciando em cada dia:
+  </p>
+
+  <p>
+    <strong>
+      <em>"Um dia nunca antes vivido e que nunca mais se repetirá"</em>
+    </strong>
+    <br>
+    – Luciano Moreira –
   </p>
 </div>
