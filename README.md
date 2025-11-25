@@ -16,7 +16,8 @@
 - 📚 Cursando Ensino Médio Técnico em Desenvolvimento de Sistemas na **FIRJAN SENAI SESI Petrópolis**
 - 🧮 Apaixonado por Matemática e Solução de Problemas
 - 💻 Focado em Desenvolvimento Backend e Arquitetura de Software
-- 🎯 Objetivo de Longo Prazo: Engenharia da Computação no **ITA**
+- 🎯 Objetivo de Longo Prazo: Ciência da Computação na UFJF
+- Faço parte da equipe de Robótica FTC Asas
 - ⚡ Curiosidade: Meu primeiro artigo científico foi no primeiro ano do NEM
 
 ---
