@@ -78,8 +78,8 @@ Curso Técnico em Desenvolvimento de Sistemas
 
 <div align="center">
   <p>
-    Como dizia meu ilustre professor para aproveitar ao máximo o tempo de vida, pronunciando em cada dia:
-  </p>
+    Agradecimento especial ao nosso ilustre e primeiro instrutor do Senai:
+   </p>
 
   <p>
     <strong>
