@@ -35,7 +35,7 @@
 
 ### Inteligência Artificial & Ferramentas
 - ![Gemini](https://img.shields.io/badge/Gemini%203.1%20Pro-4285F4?style=for-the-badge&logo=google&logoColor=white) 
-  ![ChatGPT](https://img.shields.io/badge/ChatGPT%205.2-10A37F?style=for-the-badge&logo=openai&logoColor=white) 
+  ![ChatGPT](https://img.shields.io/badge/ChatGPT%205.5-10A37F?style=for-the-badge&logo=openai&logoColor=white) 
   ![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white) 
   ![NotebookLM](https://img.shields.io/badge/NotebookLM-FF6F00?style=for-the-badge&logo=google&logoColor=white)
 
