@@ -19,18 +19,25 @@
 - 💻 Focado em Desenvolvimento Backend, IA  Engenharia de Prompt. 
 - 🎯 Objetivo de Longo Prazo: Ciência da Computação na UFJF, USP, UNICAMP, UFMG ou outra. 
 - 🎂 Fiz parte da equipe de Robótica FTC Asas Petrópolis no 2° semestre de 2025. 
+- 🎂 Participei da iniciação científica Math en Jeans de Biologia em 2025 (Hoje Steam em Jeans Biologia), fazendo um estudo das estratégicas de sobrevivência das plantas e concluindo que a *Bauhimia Variegata var Variegata* tem alta plasticidade fenotípica. 
 - ⚡ Curiosidade: Meu primeiro artigo científico foi no primeiro ano do NEM. 
 
 ---
 
 ## Tecnologias
 
-### Linguagens de Programação
-//Em manuntenção
+### Linguagens
+- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-### Ferramentas & Tecnologias
-//Em manuntenção
+### Banco de Dados
+- ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### Inteligência Artificial & Ferramentas
+- ![Gemini](https://img.shields.io/badge/Gemini%203.1%20Pro-4285F4?style=for-the-badge&logo=google&logoColor=white) 
+  ![ChatGPT](https://img.shields.io/badge/ChatGPT%205.2-10A37F?style=for-the-badge&logo=openai&logoColor=white) 
+  ![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white) 
+  ![NotebookLM](https://img.shields.io/badge/NotebookLM-FF6F00?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
