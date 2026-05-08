@@ -8,27 +8,18 @@
   />
 </div>
 
-## Sumário
-
-- [Sobre Mim](#sobre-mim)
-- [Tecnologias](#tecnologias)
-- [Formação](#formação)
-- [Contato](#contato)
-- [Estatísticas do GitHub](#estatísticas-do-github)
-
   
 ---
 
 ## Sobre Mim
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="225">
 
 - 📚 Cursando Ensino Médio Técnico em Desenvolvimento de Sistemas na **FIRJAN SENAI SESI Petrópolis**
-- 🧮 Apaixonado por Matemática e Solução de Problemas
-- 💻 Focado em Desenvolvimento Backend e Arquitetura de Software
-- 🎯 Objetivo de Longo Prazo: Ciência da Computação na UFJF
-- 🎂 Faço parte da equipe de Robótica FTC Asas
-- ⚡ Curiosidade: Meu primeiro artigo científico foi no primeiro ano do NEM
+- 🧮 Apaixonado por Matemática, Computação, Ciências da Natureza e Música
+- 💻 Focado em Desenvolvimento Backend, IA  Engenharia de Prompt. 
+- 🎯 Objetivo de Longo Prazo: Ciência da Computação na UFJF, USP, UNICAMP, UFMG ou outra. 
+- 🎂 Fiz parte da equipe de Robótica FTC Asas Petrópolis no 2° semestre de 2025. 
+- ⚡ Curiosidade: Meu primeiro artigo científico foi no primeiro ano do NEM. 
 
 ---
 
@@ -46,16 +37,17 @@
 ## Formação
 
 **FIRJAN SENAI SESI - Petrópolis/RJ**  
-`2023 - 2025`  
+`2024 - 2026`  
 Curso Técnico em Desenvolvimento de Sistemas  
-• Lógica de Programação e Algoritmos  
-• Fundamentos de Banco de Dados  
-• Desenvolvimento Web Básico  
-• Análise e Projeto de Sistemas  
+- Lógica de Programação e Algoritmos  
+- Fundamentos de Banco de Dados  
+- Desenvolvimento Web Básico  
+- Análise, Desenvolvimenro e Projeto de Sistemas  
+- IA na prática
 
 **Metas Acadêmicas Futuras**  
 1. Graduação em Ciência da Computação 
-2. Especialização em Engenharia de Software 
+2. Especialização em IA
 
 ---
 
