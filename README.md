@@ -1,13 +1,14 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=120&section=header"/>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=280&section=header&text=AI%20%7C%20Backend%20%7C%20Science&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Nicolas%20Esteves&descAlignY=58&descSize=25"/>
+
+</div>
+
 
 <div align="center">
 
-# Nicolas Esteves
-
-### Inteligência Artificial • Backend • Pesquisa Científica
-
 <img 
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=1700&pause=800&color=800020&center=true&vCenter=true&width=1200&lines=Backend+Developer;AI+and+Prompt+Engineering;Java+%7C+Python+%7C+PostgreSQL;Technical+High+School+Student+at+FIRJAN+SENAI+SESI;Passionate+about+Science+and+Technology;Future+Computer+Scientist;Scout+Senior+with+Pride;Music+Student+by+Suzuki+Method;Enthusiast+of+Scientific+Research+and+Innovation;Cloud+Computing+and+AWS+Student;Ethics+Leadership+and+Compliance;Diversity+Equity+and+Inclusion;Problem+Solving+and+Logical+Thinking;Always+Learning+New+Technologies" 
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=1700&pause=800&color=800020&center=true&vCenter=true&width=1200&lines=Backend+Developer;AI+and+Prompt+Engineering;Java+%7C+Python+%7C+PostgreSQL;Passionate+about+Science+and+Technology;Future+Computer+Scientist;Scout+Senior+with+Pride;Music+by+Suzuki+Method;Cloud+Computing+and+AWS+Student;Ethics+Leadership+and+Compliance;Diversity+%7C+Equity+%7C+Inclusion;Problem+Solving+and+Logical+Thinking;Always+Learning+New+Technologies" 
 />
 
 <a href="mailto:nicolas.e.moreira@gmail.com">
@@ -25,12 +26,15 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=1700&
 </div>
 
 ---
+<br>
+<!--Sobre Mim-->
+<div align="center">
 
-# 👨‍💻 Sobre mim
+<img width="80%" src="https://capsule-render.vercel.app/api?type=venom&height=140&color=800020&text=About%20Me&fontColor=ffffff&fontSize=45&animation=fadeIn"/>
 
-Tenho interesse em desenvolvimento backend, inteligência artificial, engenharia de prompt e pesquisa científica aplicada à tecnologia.
+</div>
 
----
+- Tenho interesse em desenvolvimento backend, inteligência artificial, engenharia de prompt e pesquisa científica aplicada à tecnologia.
 
 # 📌 Atualmente
 
@@ -40,8 +44,6 @@ Tenho interesse em desenvolvimento backend, inteligência artificial, engenharia
 - 📚 Preparação para ENEM, PISM e FUVEST
 - 🎼 Estudos musicais pelo Método Suzuki
 - 🌎 Atuação no Movimento Escoteiro
-
----
 
 # 🚀 Em foco
 
@@ -56,8 +58,13 @@ Tenho interesse em desenvolvimento backend, inteligência artificial, engenharia
 | 🌎 Formação Humana | Escotismo, liderança ética, diversidade e inclusão |
 
 ---
+<br>
+<!--Experiência e Projetos-->
+<div align="center">
 
-# 🧪 Experiência e projetos
+<img width="80%" src="https://capsule-render.vercel.app/api?type=venom&height=140&color=800020&text=Experience%20and%20Projects&fontColor=ffffff&fontSize=45&animation=fadeIn"/>
+
+</div>
 
 ## 🚀 Rio Innovation Week 2025
 - Desenvolvimento em equipe de um projeto front-end apresentado no **Caleidoscópio do Amanhã — Sesc**
@@ -94,7 +101,13 @@ Participação em:
 
 ---
 
-# 🎓 Formação
+<br>
+<!--Formação-->
+<div align="center">
+
+<img width="80%" src="https://capsule-render.vercel.app/api?type=venom&height=140&color=800020&text=Formation&fontColor=ffffff&fontSize=45&animation=fadeIn"/>
+
+</div>
 
 ## FIRJAN SENAI SESI — Petrópolis/RJ
 `2024 — 2026`
@@ -111,8 +124,6 @@ Participação em:
 - Projeto e Análise de Sistemas
 - IA na prática
 
----
-
 ## 🎯 Objetivos acadêmicos
 
 1. Aprovação no ENEM, PISM e FUVEST
@@ -122,7 +133,14 @@ Participação em:
 
 ---
 
-# ⚙️ Tecnologias e ferramentas
+<br>
+<!--Tecnologias e Ferramentas-->
+<div align="center">
+
+<img width="80%" src="https://capsule-render.vercel.app/api?type=venom&height=140&color=800020&text=Technologies%20and%20Tools&fontColor=ffffff&fontSize=45&animation=fadeIn"/>
+
+</div>
+<br>
 
 <div align="center">
 
@@ -140,7 +158,14 @@ Participação em:
 
 ---
 
-# 📊 Estatísticas GitHub
+<br>
+<!--Estatísticas do GitHUB-->
+<div align="center">
+
+<img width="80%" src="https://capsule-render.vercel.app/api?type=venom&height=140&color=800020&text=Statistics&fontColor=ffffff&fontSize=45&animation=fadeIn"/>
+
+</div>
+<br>
 
 <div align="center">
 
@@ -150,9 +175,7 @@ Participação em:
 
 </div>
 
----
-
-# 🏆 Conquistas GitHub
+## 🏆 Conquistas
 
 <div align="center">
 
@@ -160,9 +183,8 @@ Participação em:
 
 </div>
 
----
 
-# 🔥 Sequência de contribuições
+## 🔥 Sequência de contribuições
 
 <div align="center">
 
@@ -182,40 +204,26 @@ Participação em:
 
 ---
 
-# 📫 Contato
-
+<br>
+<!--Fechamento-->
 <div align="center">
 
-<a href="mailto:nicolas.e.moreira@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/nicolas-esteves-caetano-moreira-494a34364/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<img width="80%" src="https://capsule-render.vercel.app/api?type=venom&height=140&color=800020&text=Closing&fontColor=ffffff&fontSize=45&animation=fadeIn"/>
 
 </div>
-
----
-
-# ⚡Fechamento
+<br>
 
 <div align="center">
 
 ### 🚀 Construindo conhecimento através de tecnologia, pesquisa e inovação.
 
-**- Agradecimento especial ao meus instrutores do Senai: Luciano Moreira S. Varricchio, Debora de Oliveira Souza e Felippe do Nascimento**
+- **Agradecimento especial ao meus instrutores do Senai: Luciano Moreira S. Varricchio, Debora de Oliveira Souza e Felippe do Nascimento**
 
 </div>
-
----
 
 <div align="center">
-
-### ✨ “Um dia nunca antes vivido e que nunca mais se repetirá”
-
-**— Luciano Moreira S. Varricchio**
-
+  <img width="150" src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif"/>
 </div>
+
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=800020&height=120&section=footer"/>
